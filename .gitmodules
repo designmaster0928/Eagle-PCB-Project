@@ -1,0 +1,57 @@
+[submodule "libraries/Adafruit"]
+	path = libraries/Adafruit
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
+[submodule "libraries/SparkFun-Eagle-Libraries"]
+	path = libraries/SparkFun-Eagle-Libraries
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "projects/Adafruit-INA219-Current-Sensor-PCB"]
+	path = projects/INA219-Current-Sensor_by_Adafruit
+	url = https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB.git
+[submodule "projects/Grove-modules_of_seeed-studio"]
+	path = projects/Grove_Modules_by_Seeed-Studio
+	url = https://github.com/Seeed-Studio/Grove-Eagle.git
+[submodule "projects/LTC4150_Coulomb_Counter_BOB"]
+	path = projects/LTC4150_Coulomb_Counter_by_Sparkfun
+	url = https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB.git
+[submodule "projects/CM3-Basic-PCB"]
+	path = projects/RPi-CM3_Basic_by_owenosborn
+	url = https://github.com/owenosborn/CM3-Basic-PCB.git
+[submodule "projects/Adafruit-Feather-32u4-RFM-LoRa-PCB"]
+	path = projects/Adafruit-Feather-32u4-RFM-LoRa-PCB
+	url = https://github.com/adafruit/Adafruit-Feather-32u4-RFM-LoRa-PCB.git
+[submodule "projects/Adafruit-RFM-LoRa-Radio-Breakout-PCB"]
+	path = projects/Adafruit-RFM-LoRa-Radio-Breakout-PCB
+	url = https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB.git
+[submodule "libraries/MacroYau-EAGLE-Libraries"]
+	path = libraries/MacroYau-EAGLE-Libraries
+	url = https://github.com/MacroYau/MacroYau-EAGLE-Libraries.git
+[submodule "libraries/halfakop_eagle-lbr"]
+	path = libraries/halfakop_eagle-lbr
+	url = https://github.com/halfakop/eagle-lbr.git
+[submodule "projects/Sparkfun-ESP32_LoRa_1Ch_Gateway"]
+	path = projects/Sparkfun-ESP32_LoRa_1Ch_Gateway
+	url = https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway.git
+[submodule "libraries/Seeed-Studio"]
+	path = libraries/Seeed-Studio
+	url = https://github.com/Seeed-Studio/OPL_Eagle_Library.git
+[submodule "libraries/SparkFun"]
+	path = libraries/SparkFun
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "libraries/Halfakop"]
+	path = libraries/Halfakop
+	url = https://github.com/halfakop/eagle-lbr.git
+[submodule "libraries/MacroYau"]
+	path = libraries/MacroYau
+	url = https://github.com/MacroYau/MacroYau-EAGLE-Libraries.git
+[submodule "projects/RPi-CM3_Carrier_LiPo_by_aedancullen"]
+	path = projects/RPi-CM3_Carrier_LiPo_by_aedancullen
+	url = https://github.com/aedancullen/rpi-cm3-eagle-carrier-lipo.git
+[submodule "projects/ATM90E26_Featherwing_by_whatnick"]
+	path = projects/ATM90E26_Featherwing_by_whatnick
+	url = https://github.com/whatnick/ATM90E26_Featherwing.git
+[submodule "projects/ATM90E26_Breakout_by_whatnick"]
+	path = projects/ATM90E26_Breakout_by_whatnick
+	url = https://github.com/whatnick/ATM90E26_Breakout.git
+[submodule "projects/Olimex_ESP32-Gateway"]
+	path = projects/Olimex_ESP32-Gateway
+	url = https://github.com/OLIMEX/ESP32-GATEWAY.git
